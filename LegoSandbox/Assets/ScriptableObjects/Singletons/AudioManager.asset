@@ -18,7 +18,7 @@ MonoBehaviour:
     type: 2}
   soundGroup: {fileID: -9056115165908447019, guid: 01360023bba8a95409d35b2a77969f01,
     type: 2}
-  is3DGame: 0
+  is3DGame: 1
   maxSoundDistance: 20
   volumeRolloff:
     serializedVersion: 2

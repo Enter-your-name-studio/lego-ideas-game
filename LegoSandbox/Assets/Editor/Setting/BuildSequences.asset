@@ -484,6 +484,6 @@ MonoBehaviour:
       needSteamPush: 0
       needGoogleDrivePush: 0
   scriptingDefineSymbols: UNITY_POST_PROCESSING_STACK_V2;TMP_PRESENT;ARABSUPPORT_ENABLED;POLYGLOT;GAME_TEMPLATE
-  itchGameLink: teamon/GameTemplate
-  githubUserName: Team-on
-  githubRepoName: TemplateTest
+  itchGameLink: teamon/lego-sanbox
+  githubUserName: Enter-your-name-studios
+  githubRepoName: lego-ideas-game
