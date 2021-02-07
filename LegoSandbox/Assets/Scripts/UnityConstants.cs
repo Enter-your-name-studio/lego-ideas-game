@@ -32,6 +32,14 @@ namespace UnityConstants
         /// Name of tag 'GameController'.
         /// </summary>
         public const string GameController = "GameController";
+        /// <summary>
+        /// Name of tag 'Projectile'.
+        /// </summary>
+        public const string Projectile = "Projectile";
+        /// <summary>
+        /// Name of tag 'TutorialRequirement'.
+        /// </summary>
+        public const string TutorialRequirement = "TutorialRequirement";
     }
 
     public static class SortingLayers
@@ -72,6 +80,14 @@ namespace UnityConstants
         /// Index of layer 'UI'.
         /// </summary>
         public const int UI = 5;
+        /// <summary>
+        /// Index of layer 'ConnectivityReceptor'.
+        /// </summary>
+        public const int ConnectivityReceptor = 8;
+        /// <summary>
+        /// Index of layer 'ConnectivityConnector'.
+        /// </summary>
+        public const int ConnectivityConnector = 9;
 
         /// <summary>
         /// Bitmask of layer 'Default'.
@@ -93,6 +109,14 @@ namespace UnityConstants
         /// Bitmask of layer 'UI'.
         /// </summary>
         public const int UIMask = 1 << 5;
+        /// <summary>
+        /// Bitmask of layer 'ConnectivityReceptor'.
+        /// </summary>
+        public const int ConnectivityReceptorMask = 1 << 8;
+        /// <summary>
+        /// Bitmask of layer 'ConnectivityConnector'.
+        /// </summary>
+        public const int ConnectivityConnectorMask = 1 << 9;
     }
 
     public static class Scenes
@@ -102,9 +126,9 @@ namespace UnityConstants
         /// </summary>
         public const int MainMenu = 0;
         /// <summary>
-        /// ID of scene 'SampleScene2D'.
+        /// ID of scene 'SampleScene3D'.
         /// </summary>
-        public const int SampleScene2D = 1;
+        public const int SampleScene3D = 1;
     }
 
     public static class Axes
@@ -137,6 +161,14 @@ namespace UnityConstants
         /// Input axis 'Cancel'.
         /// </summary>
         public const string Cancel = "Cancel";
+        /// <summary>
+        /// Input axis 'Jump'.
+        /// </summary>
+        public const string Jump = "Jump";
+        /// <summary>
+        /// Input axis 'InGameMenuOption'.
+        /// </summary>
+        public const string InGameMenuOption = "InGameMenuOption";
     }
 }
 
