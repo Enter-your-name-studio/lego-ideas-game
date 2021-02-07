@@ -11,13 +11,18 @@ using Random = UnityEngine.Random;
 
 [CreateAssetMenu(fileName = "GameManager", menuName = "Singletons/GameManager")]
 public class GameManager : Singleton<GameManager> {
-
+	public InputReader input = new InputReader();
+	public Player player;
 
 	protected override void Initialize() {
 		base.Initialize();
+
+		input.Init();
 	}
 
 	protected override void Deinitialize() {
+		input.UnInit();
+
 		base.Deinitialize();
 	}
 }
