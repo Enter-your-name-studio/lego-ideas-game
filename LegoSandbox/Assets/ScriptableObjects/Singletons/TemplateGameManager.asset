@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startResources: 
   buildNameString: 0.1 - Basic mechanics (1/4/2021)
-  productName: LegoSandbox
+  productName: Lego sandbox
   uiinput: {fileID: 0}
   eventSystem: {fileID: 0}
   inputSystem: {fileID: 0}
