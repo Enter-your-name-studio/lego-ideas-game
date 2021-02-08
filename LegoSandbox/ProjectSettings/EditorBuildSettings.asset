@@ -6,11 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/MainMenuScene.unity
     guid: bc43bc8b854767647948b52f3058d39a
   - enabled: 1
-    path: Assets/Scenes/SampleScene3D.unity
-    guid: 9153cb7d92f37534185fcc473e1d9b5b
+    path: Assets/Scenes/GameScene.unity
+    guid: 2b6c861e1ba58eb4e8805735de758caa
+  - enabled: 1
+    path: Assets/Scenes/TeamScene.unity
+    guid: eeebe5373a976c444b9b69d58b6cf9e8
+  - enabled: 1
+    path: Assets/Scenes/DanScene.unity
+    guid: aae5a3e576ae54544960158b8d66dc4a
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7d08b87ae645fbe43b65157427ea17e6,
       type: 2}
