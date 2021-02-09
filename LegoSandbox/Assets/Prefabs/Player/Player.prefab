@@ -2693,6 +2693,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c65eaf740106b847b6c3275d4ab311b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buildPrefabs:
+  - {fileID: 1020550614151211791, guid: fc51c672396652140b61bb518d5502a0, type: 3}
+  - {fileID: 8814350268578381958, guid: db54a52a64e864443a0ff3ac1e09c2c8, type: 3}
+  - {fileID: 6648954062560423399, guid: 3ae9a4a1ac2338e4c9933a2a7a2d9dff, type: 3}
+  - {fileID: 4687237353433067634, guid: b7cca69207715f048af31268dcbf5a3e, type: 3}
+  - {fileID: 4422264065909520067, guid: 3e56b1f030fba224eb295008b28981d1, type: 3}
+  - {fileID: 7886663448074568074, guid: e7f767eacd5ca014194cd9139da82f1b, type: 3}
+  - {fileID: 1208366811821885174, guid: 2f4a88fb1fb15f4448200422e63e7db3, type: 3}
+  - {fileID: 6357755794428735796, guid: 84e4f5dc5428fb84f98c2c23cbae8e3e, type: 3}
+  currPrefab: 0
 --- !u!114 &9223036923884392444
 MonoBehaviour:
   m_ObjectHideFlags: 0

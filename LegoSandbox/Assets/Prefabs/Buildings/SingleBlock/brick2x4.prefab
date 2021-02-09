@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1208366811700994805}
   - component: {fileID: 1208366811700994763}
   - component: {fileID: 1208366811700994762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 1208366811746238623}
   - component: {fileID: 1208366811746238617}
   - component: {fileID: 1208366811746238622}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Custom2DField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -575,7 +575,7 @@ GameObject:
   - component: {fileID: 1208366811780521813}
   - component: {fileID: 1208366811780521812}
   - component: {fileID: 1208366811780521815}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 1208366811800913143}
   - component: {fileID: 1208366811800913142}
   - component: {fileID: 1208366811800913137}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -771,7 +771,8 @@ GameObject:
   - component: {fileID: 1208366811821885173}
   - component: {fileID: 1208366811821885172}
   - component: {fileID: 1208366811821885175}
-  m_Layer: 0
+  - component: {fileID: 1814569309}
+  m_Layer: 6
   m_Name: brick2x4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -869,6 +870,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   onlyActiveGameObject: 0
   hideChildren: 0
+--- !u!114 &1814569309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1208366811821885174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd0f5010ec5ac84e9dd8cb37cd5609b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1208366811825529435
 GameObject:
   m_ObjectHideFlags: 0
@@ -881,7 +894,7 @@ GameObject:
   - component: {fileID: 1208366811825529438}
   - component: {fileID: 1208366811825529433}
   - component: {fileID: 1208366811825529432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -981,7 +994,7 @@ GameObject:
   - component: {fileID: 1208366811947554798}
   - component: {fileID: 1208366811947554793}
   - component: {fileID: 1208366811947554792}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 3001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1121,7 +1134,7 @@ GameObject:
   - component: {fileID: 1208366812203521075}
   - component: {fileID: 1208366812203521073}
   - component: {fileID: 1208366812203521072}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shell
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1202,7 +1215,7 @@ GameObject:
   - component: {fileID: 1208366812208780926}
   - component: {fileID: 1208366812208780924}
   - component: {fileID: 1208366812208780927}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: VME_11003001_LEG_Front_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1281,7 +1294,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366812350478174}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tubes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1316,7 +1329,7 @@ GameObject:
   - component: {fileID: 1208366812374872373}
   - component: {fileID: 1208366812374872331}
   - component: {fileID: 1208366812374872330}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1398,7 +1411,7 @@ GameObject:
   - component: {fileID: 1208366812376847036}
   - component: {fileID: 1208366812376847039}
   - component: {fileID: 1208366812376847038}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1494,7 +1507,7 @@ GameObject:
   - component: {fileID: 1208366812553546109}
   - component: {fileID: 1208366812553546099}
   - component: {fileID: 1208366812553546098}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Custom2DField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1963,7 +1976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1208366812554548165}
   - component: {fileID: 1208366812554548186}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 3001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2036,7 +2049,7 @@ GameObject:
   - component: {fileID: 1208366812588119734}
   - component: {fileID: 1208366812588119729}
   - component: {fileID: 1208366812588119728}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2130,7 +2143,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366812591085552}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DecorationSurfaces
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2163,7 +2176,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1208366812628725831}
   - component: {fileID: 1208366812628725828}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Connectivity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2219,7 +2232,7 @@ GameObject:
   - component: {fileID: 1208366812768953004}
   - component: {fileID: 1208366812768953007}
   - component: {fileID: 1208366812768953006}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Main model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2321,7 +2334,7 @@ GameObject:
   - component: {fileID: 1208366812838967096}
   - component: {fileID: 1208366812838967099}
   - component: {fileID: 1208366812838967098}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2415,7 +2428,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366812852661319}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2448,7 +2461,7 @@ GameObject:
   - component: {fileID: 1208366812859298506}
   - component: {fileID: 1208366812859298504}
   - component: {fileID: 1208366812859298507}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2527,7 +2540,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366812865154048}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knobs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2567,7 +2580,7 @@ GameObject:
   - component: {fileID: 1208366812904658003}
   - component: {fileID: 1208366812904658001}
   - component: {fileID: 1208366812904658000}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2647,7 +2660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1208366812954752272}
   - component: {fileID: 1208366812954752275}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Collision Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2690,7 +2703,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366812976607837}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knobs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2731,7 +2744,7 @@ GameObject:
   - component: {fileID: 1208366813099767315}
   - component: {fileID: 1208366813099767314}
   - component: {fileID: 1208366813099767325}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2827,7 +2840,7 @@ GameObject:
   - component: {fileID: 1208366813132683532}
   - component: {fileID: 1208366813132683522}
   - component: {fileID: 1208366813132683533}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2909,7 +2922,7 @@ GameObject:
   - component: {fileID: 1208366813145113535}
   - component: {fileID: 1208366813145113534}
   - component: {fileID: 1208366813145113529}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3005,7 +3018,7 @@ GameObject:
   - component: {fileID: 1208366813226081698}
   - component: {fileID: 1208366813226081696}
   - component: {fileID: 1208366813226081699}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3086,7 +3099,7 @@ GameObject:
   - component: {fileID: 1208366813232507427}
   - component: {fileID: 1208366813232507425}
   - component: {fileID: 1208366813232507424}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3167,7 +3180,7 @@ GameObject:
   - component: {fileID: 1208366813248984603}
   - component: {fileID: 1208366813248984601}
   - component: {fileID: 1208366813248984600}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3246,7 +3259,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208366813307632461}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tubes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3281,7 +3294,7 @@ GameObject:
   - component: {fileID: 1208366813348724495}
   - component: {fileID: 1208366813348724493}
   - component: {fileID: 1208366813348724492}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3363,7 +3376,7 @@ GameObject:
   - component: {fileID: 1208366813409542027}
   - component: {fileID: 1208366813409542026}
   - component: {fileID: 1208366813409542069}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3459,7 +3472,7 @@ GameObject:
   - component: {fileID: 1208366813517075989}
   - component: {fileID: 1208366813517076075}
   - component: {fileID: 1208366813517076074}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: VME_11003001_LEG_Back_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3541,7 +3554,7 @@ GameObject:
   - component: {fileID: 1208366813529656229}
   - component: {fileID: 1208366813529656228}
   - component: {fileID: 1208366813529656231}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3637,7 +3650,7 @@ GameObject:
   - component: {fileID: 1208366813623472175}
   - component: {fileID: 1208366813623472173}
   - component: {fileID: 1208366813623472172}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: knob_01_D_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3719,7 +3732,7 @@ GameObject:
   - component: {fileID: 1208366813631622451}
   - component: {fileID: 1208366813631622450}
   - component: {fileID: 1208366813631622461}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3815,7 +3828,7 @@ GameObject:
   - component: {fileID: 1208366813680747025}
   - component: {fileID: 1208366813680747031}
   - component: {fileID: 1208366813680747030}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tube_02_D_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
