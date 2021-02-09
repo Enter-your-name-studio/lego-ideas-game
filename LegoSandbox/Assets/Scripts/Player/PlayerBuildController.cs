@@ -39,6 +39,11 @@ public class PlayerBuildController : MonoBehaviour {
 		if (!isHit)
 			return;
 
+		Buildable buildable = hit.collider.GetComponentInParent<Buildable>();
+		if (!buildable)
+			return;
+
+		Destroy(buildable.gameObject);
 	}
 
 	void DoRay() {
