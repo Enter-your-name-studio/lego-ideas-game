@@ -192,7 +192,7 @@ MonoBehaviour:
     randomizeRotation: 1
     preferLegacy: 0
     lod: 0
-  optimizations: -1
+  optimizations: 0
   randomizeNormals: 0
   processed: 0
   absoluteFilePath: C:/repo/lego-ideas-game/LegoSandbox/Library/PackageCache/com.unity.lego.modelimporter@3.2.0/Models/brick2x3.ldr
